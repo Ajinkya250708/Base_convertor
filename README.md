@@ -42,7 +42,7 @@ The application provides a simple and clean interface where users can select an 
 ## 📂 Project Structure
 
 ```text
-Data-Base-Converter/
+Base_Converter/
 │
 ├── Base_convertor.py
 ├── screenshots/
